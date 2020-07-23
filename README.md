@@ -18,6 +18,8 @@ Multiple ini files are supported - the user enters the name of the ini file to b
  
  These can be imported using *pip install requests* and *pip install pandas*
  
+ Alternately you can install all dependencies using *pip install -r requirements.txt*
+ 
  ## Populating the ini File
  Replace the *???* placeholders in the ini file with the relevant values for the customer and network that you are gathering device data for.
  
